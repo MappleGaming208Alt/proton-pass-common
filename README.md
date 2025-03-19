@@ -1,4 +1,4 @@
-# Proton Pass Common
+# Proton Pass Common cloaked as something
 
 This repository contains the source code for the common library that's used across all clients (for now, Android, iOS and web).
 
